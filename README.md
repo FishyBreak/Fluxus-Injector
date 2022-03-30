@@ -21,7 +21,7 @@ This repo contains the Fluxus installer as well as common fixes.
 
 ## 4. Inject Fluxus before executing
    * MAKE SURE YOU ARE USING THE WEB ROBLOX AND NOT THE MICROSOFT VERSION
-   * 
+  
    This means Fluxus is not injected. Firstly, make sure attempted to inject in the first place.
 If you clicked the inject button and it still says it, wait a minute (Injection speed depends on computer hardware)
 If nothing happens or a console quickly opens and closes, you have an active anti virus. Make sure all your anti virus is disabled and then reinstall Fluxus.
@@ -34,3 +34,16 @@ C:\Program Files (x86)\Fluxus
 Ensure that folder has all these files:
 If it does not after a reinstall, an anti virus or third party is deleting it. 
 ![Files](https://cdn.discordapp.com/attachments/946130335375179786/949153185333936208/unknown.png)
+
+## 5. Fluxus is crashing during injection
+Make sure you are allowing the game to fully load (Ex: Character is loaded in) before attempting to inject.
+Make sure the autoexec folder located in the Fluxus bin folder is empty.
+
+If you're still crashing, youre're probably enrolled in the Roblox beta program and have a beta version of the client. Depending on that, you can go to the settings in ROBLOX and opt out.
+
+## 6. Antivirus
+ * ENSURE YOUR ANTI VIRUS IS OFF. MOST OF THE TIMES IT IS NOT OFF CAUSING ISSUES. Please go check Windows Security --> Real Time Protection and see if it is off before trying a fix. 
+ 
+![Successful Injection](https://cdn.discordapp.com/attachments/946130335375179786/949157035134566470/unknown.png)
+
+If you cannot find the issue/fix here, refer to the [FAQ](https://fluxteam.xyz/FAQ/).
