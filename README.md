@@ -43,7 +43,15 @@ If you're still crashing, youre're probably enrolled in the Roblox beta program 
 
 ## 6. Antivirus
  * ENSURE YOUR ANTI VIRUS IS OFF. MOST OF THE TIMES IT IS NOT OFF CAUSING ISSUES. Please go check Windows Security --> Real Time Protection and see if it is off before trying a fix. 
+
+## 7. Unsupported version of Roblox
+Close ROBLOX. Then, download & extract the following zip file from [here](https://cdn.discordapp.com/attachments/918919940940132382/958829171126173756/Beta_Removal.zip)
+
+Make sure to read the instructions inside of the .zip file.
+![Example](https://cdn.discordapp.com/attachments/946130335375179786/958868317781753926/Beta.png)
+
  
 ![Successful Injection](https://cdn.discordapp.com/attachments/946130335375179786/949157035134566470/unknown.png)
 
-If you cannot find the issue/fix here, refer to the [FAQ](https://fluxteam.xyz/FAQ/).
+
+## If you cannot find the issue/fix here, refer to the [FAQ](https://fluxteam.xyz/FAQ/).
